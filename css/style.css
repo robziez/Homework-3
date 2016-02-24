@@ -1,0 +1,117 @@
+*{
+	margin: 0px;
+}
+body{
+	font-family: 'Open Sans', sans-serif;
+	margin: 0;
+}
+header{
+	background: url(../images/header_bg.jpg);
+	background-size: cover;
+	height: 800px;
+	text-align: center;
+}
+h1{
+	font-weight: 800;
+	font-size: 24px;
+	text-align: left;
+	color: white;
+	padding: 20px 0 0 40px;
+}
+#bottom_h2{
+	margin-top: 0;
+	margin-bottom: 0;
+	color: #f9e42e;
+	cursor: auto;
+	padding: 35px;
+	font-weight: 800;
+	font-size: 24px;
+}
+h2{
+	color: #f0efef;
+	font-weight: 600;
+	font-size: 24px;
+	text-align: center;
+	margin-top: 250px;
+}
+#button1{
+	font-weight: 800;
+	font-size: 14px;
+	border-radius: 5px;
+	background-color: #f9e42e;
+	color: #033048;
+	padding: 10px 30px;
+	border: none;
+	box-shadow: 0 2px 0 0;
+}
+h3{
+	font-size: 20px;
+	font-weight: 600;
+	color: #033048;
+}
+#main_p{
+	color: #606161;
+}
+ul{
+	color: #606161;
+	font-weight: 300;
+}
+li{
+	padding-top: 7px;
+}
+ul > li{
+	font-weight: bold;
+}
+main{
+	padding: 5%;
+	width: 375px;
+}
+section{
+	background: url(../images/testimonial_bg.jpg);
+	background-size: cover;
+	padding: 20%;
+	text-align: center;
+	color: white;
+	font-size: 18px;
+	font-weight: 300;
+	font-style: italic;
+}
+#name{
+	font-weight: 600;
+	font-style: normal;
+	padding-top: 5px;
+}
+#button2{
+	font-weight: 800;
+	font-size: 12px;
+	border-radius: 5px;
+	background-color: #033048;
+	color: white;
+	padding: 10px;
+	cursor: auto;
+	border: none;
+}
+div{
+	padding-right: 43%; 
+	padding-left: 43%;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	background-color: #f9e42e;
+	text-align: center;
+}
+footer{
+	background-color: #121212;
+	text-align: center;
+}
+footer img{
+	padding: 10px;
+}
+footer p{
+	color: white;
+	font-size: 9px;
+	font-weight: 600;
+}
+section p{
+	width: 300px;
+	margin: auto;
+}
